@@ -1,7 +1,8 @@
 #### Welcome! 👋
 
 I'm a recent data science grad and former electrical engineer with 8+ years of technical and project experience. 
-<br>Throughout my career, I've worked to modernize industries that historically lacked the presence of software engineers and data scientists. 
+
+Throughout my career, I've worked to modernize industries that historically lacked the presence of software engineers and data scientists. 
 
 It all started with physical clipboards and Excel files... 🫠 Since then, I ventured into originating and harnessing data from emerging domains, such as electric vehicles and manufacturing processes. 
 
